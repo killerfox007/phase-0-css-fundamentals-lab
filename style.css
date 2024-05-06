@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+
+p#center {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+
+}
+figure{
+  text-align: center;
+}
+a#top {
+  background-color: lightgoldenrodyellow;
+  padding-left: 10;
+  padding-right: 10;
+}
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
